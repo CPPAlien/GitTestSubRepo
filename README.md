@@ -1,2 +1,0 @@
-# GitTestSubRepo
-xxxxx
